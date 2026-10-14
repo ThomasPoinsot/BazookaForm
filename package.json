@@ -1,0 +1,10 @@
+{
+  "name": "bazookaform",
+  "private": true,
+  "scripts": {
+    "reperer": "npm --prefix experiences/reperage-champs run reperer --",
+    "comparer": "npm --prefix experiences/reperage-champs run comparer --",
+    "banc": "npm --prefix experiences/reperage-champs run banc",
+    "recaler": "npm --prefix experiences/reperage-champs run recaler --"
+  }
+}

@@ -1,0 +1,6 @@
+# Formulaires de test : locaux, jamais publiés
+Formulaires PDF de test/
+
+# Dépendances et secrets
+node_modules/
+.env
